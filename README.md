@@ -1,4 +1,5 @@
 # Summernote
+npm install nguyentantaitcag2000/summernote-lazycodet#master
 
 Super simple WYSIWYG Editor.
 
